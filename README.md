@@ -1,4 +1,4 @@
-DBAccessor is a suite of classes making accessing MySQL database so much easier.
+MySQL Porter is a suite of classes making accessing MySQL database so much easier.
 
 The most important class is MySQLHelper. This is the class for making MySQL statements by describing the table schema using PHP array.
 
